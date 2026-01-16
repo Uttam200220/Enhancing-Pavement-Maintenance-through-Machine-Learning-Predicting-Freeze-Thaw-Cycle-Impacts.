@@ -1,0 +1,2 @@
+# Enhancing-Pavement-Maintenance-through-Machine-Learning-Predicting-Freeze-Thaw-Cycle-Impacts.
+Data Analytics &amp; Machine Learning Research Project applies data cleaning, database management, exploratory analysis, and machine learning techniques to structured datasets. Using cleaned CSV files and database sources, the project builds analytical models to extract patterns, generate insights, and support data-driven conclusions.
